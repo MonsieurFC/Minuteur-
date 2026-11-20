@@ -1,0 +1,20 @@
+{
+  "name": "Minuteur Totoro",
+  "short_name": "Totoro",
+  "description": "Minuteur sous la pluie — arrêt de bus, hommage procédural au Studio Ghibli.",
+  "id": "minuteur-totoro",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1c16",
+  "theme_color": "#0f1c16",
+  "lang": "fr",
+  "categories": ["utilities"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
